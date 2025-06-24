@@ -13,11 +13,11 @@ categories:
 
 **Backlinks:**
 
-**[[Psilocybin & Mystical Experiences]]**
+**[Psilocybin & Mystical Experiences](Psilocybin%20%26%20Mystical%20Experiences.md)**
 
 [[Psilocybin & Mystical/Transcendent Experiences]]
 
-[[Heidegger, Psilocybin, Mystical Experience, & Ego-Death]]
+[Heidegger, Psilocybin, Mystical Experience, & Ego-Death](Heidegger%2C%20Psilocybin%2C%20Mystical%20Experience%2C%20%26%20Ego-Death.md)
 
 * * *
 

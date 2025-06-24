@@ -7,7 +7,7 @@ categories:
 
 # Mystics, Saints and Nothingness 
 
-Friday, May 31, 2024 [[Cognosys Structure & Outline]], #nothingness, #mystical, #transcendent
+Friday, May 31, 2024 [Cognosys Structure & Outline](Cognosys%20Structure%20%26%20Outline.md "upnote://x-callback-url/openNote?noteId=3BEA4258-77F0-453C-A52C-033CF5C64E63"), #nothingness, #mystical, #transcendent
 
 **Last Updated: 2025/03/31**
 
