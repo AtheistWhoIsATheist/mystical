@@ -13,10 +13,10 @@ categories:
 
 **Backlinks:**
 
-- [**Psilocybin & Mystical Experiences**](Psilocybin%20%26%20Mystical%20Experiences.md)
+- [[Psilocybin & Mystical Experiences]]
 - [[Psilocybin & Mystical/Transcendent Experiences]]
-- [**Psilocybin Induced Mystical Experiences**](Psilocybin%20Induced%20Mystical%20Experiences.md)
-- [**Heidegger, Psilocybin, Mystical Experience, & Ego-Death**](Heidegger%2C%20Psilocybin%2C%20Mystical%20Experience%2C%20%26%20Ego-Death.md)
+- [[Psilocybin Induced Mystical Experiences]]
+- [[Heidegger, Psilocybin, Mystical Experience, & Ego-Death]]
 - [[A (possible) Heideggerian Language of Nihiltheism]]
 
 * * *

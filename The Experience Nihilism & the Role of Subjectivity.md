@@ -12,7 +12,7 @@ categories:
 
 [The Experience of Worldly and Transcendent Nihilism](The%20Experience%20Nihilism%20%26%20the%20Role%20of%20Subjectivity.md)
 
-[[Phenomenology of the Worldly Experience]]
+[Phenomenology of the Worldly Experience](Phenomenology%20of%20the%20Worldly%20Experience.md)
 
 [[The Worldly Experience of Nihilism- The Inefficiency of Language and Varying Degrees of Severity]]
 
